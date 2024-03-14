@@ -30,7 +30,7 @@
     "lodash.isnil": "^4.0.0",
     "lodash.tointeger": "^4.0.4",
     "lodash.uniqueid": "^4.0.1",
-    "vue": "^3.4.4"
+    "vue": "^3.4.19"
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.14.5",
